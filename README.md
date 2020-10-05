@@ -120,5 +120,5 @@ use cases, for example:
 
 ## See also
 
-[1] https://lwn.net/Articles/821158/
-[2] https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-interruptions.html
+ - [1] https://lwn.net/Articles/821158/
+ - [2] https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-interruptions.html
